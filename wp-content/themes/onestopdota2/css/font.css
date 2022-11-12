@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url('../fonts/HKGrotesk-Light.eot');
+  src: url('../fonts/HKGrotesk-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/HKGrotesk-Light.woff2') format('woff2'), url('../fonts/HKGrotesk-Light.woff') format('woff'), url('../fonts/HKGrotesk-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url('../fonts/HKGrotesk-RegularLegacy.eot');
+  src: url('../fonts/HKGrotesk-RegularLegacy.eot?#iefix') format('embedded-opentype'), url('../fonts/HKGrotesk-RegularLegacy.woff2') format('woff2'), url('../fonts/HKGrotesk-RegularLegacy.woff') format('woff'), url('../fonts/HKGrotesk-RegularLegacy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url('../fonts/HKGrotesk-Medium.eot');
+  src: url('../fonts/HKGrotesk-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/HKGrotesk-Medium.woff2') format('woff2'), url('../fonts/HKGrotesk-Medium.woff') format('woff'), url('../fonts/HKGrotesk-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url('../fonts/HKGrotesk-SemiBold.eot');
+  src: url('../fonts/HKGrotesk-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/HKGrotesk-SemiBold.woff2') format('woff2'), url('../fonts/HKGrotesk-SemiBold.woff') format('woff'), url('../fonts/HKGrotesk-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Apercu';
+  src: url('../fonts/Apercu-Bold.eot');
+  src: url('../fonts/Apercu-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Apercu-Bold.woff2') format('woff2'), url('../fonts/Apercu-Bold.woff') format('woff'), url('../fonts/Apercu-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Apercu pro';
+  src: url('../fonts/ApercuPro-Medium.eot');
+  src: url('../fonts/ApercuPro-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/ApercuPro-Medium.woff2') format('woff2'), url('../fonts/ApercuPro-Medium.woff') format('woff'), url('../fonts/ApercuPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Apercu';
+  src: url('../fonts/Apercu-Medium.eot');
+  src: url('../fonts/Apercu-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/Apercu-Medium.woff2') format('woff2'), url('../fonts/Apercu-Medium.woff') format('woff'), url('../fonts/Apercu-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Apercu';
+  src: url('../fonts/Apercu-Regular.eot');
+  src: url('../fonts/Apercu-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Apercu-Regular.woff2') format('woff2'), url('../fonts/Apercu-Regular.woff') format('woff'), url('../fonts/Apercu-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Circular';
+  src: url('../fonts/CircularStd-Book.eot');
+  src: url('../fonts/CircularStd-Book.eot?#iefix') format('embedded-opentype'), url('../fonts/CircularStd-Book.woff2') format('woff2'), url('../fonts/CircularStd-Book.woff') format('woff'), url('../fonts/CircularStd-Book.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Circular';
+  src: url('../fonts/CircularStd-Medium.eot');
+  src: url('../fonts/CircularStd-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/CircularStd-Medium.woff2') format('woff2'), url('../fonts/CircularStd-Medium.woff') format('woff'), url('../fonts/CircularStd-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Circular';
+  src: url('../fonts/CircularStd-Bold.eot');
+  src: url('../fonts/CircularStd-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/CircularStd-Bold.woff2') format('woff2'), url('../fonts/CircularStd-Bold.woff') format('woff'), url('../fonts/CircularStd-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,55 @@
+@import "style.less";
+//footer css
+.footer-section{
+	.footer-logo{
+		img{
+			width: 60px;
+		    @media(min-width: 575px){
+		        width: 80px;
+		    }
+		}
+	}
+	.menu-section{
+		.menu-item{
+			padding-bottom: 10px;
+		}
+	}
+	.mobile-menu{
+		column-count: 2;
+    	display: block;
+    	.menu-item{
+    		display: block;
+    	}
+	}
+	.frm_forms{
+		.frm_form_fields{
+			.frm_fields_container{
+				.frm_form_field{
+					input{
+						font-size: 0.9rem;
+						width: 100%;
+						outline: none;
+					    padding: 10px 0px 10px 0px;
+					    background: @white;
+					    border-radius: 0;
+					    border: 0;
+					    border-bottom: 1px solid @dark-brown;
+					    margin-bottom: 15px;
+					}
+				}
+				.frm_submit{
+					display: flex;
+				    justify-content: flex-end;
+					.frm_button_submit{
+						padding: 15px 60px 15px 15px;
+					    outline: none;
+					    border: 0;
+					    background: @light-blue;
+					    color: @white;
+					    border-radius: 0;
+					}
+				}
+			}
+		}
+	}
+}

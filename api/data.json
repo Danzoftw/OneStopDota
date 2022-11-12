@@ -1,0 +1,208 @@
+{
+    "Tournament": [
+        {
+            "name": "Efusion Events",
+            "leagueId": 13286,
+            "server": "Singapore",
+            "Prize Pool": "$15,456",
+            "tier": "3",
+            "count": 10,
+            "version": "7.29d",
+            "format":"Round Robin"
+        },
+        {
+            "Dates": [
+                {
+                    "start": "18-07-2021",
+                    "end": "9-08-2021"
+                }
+            ]
+        }
+    ],
+    "Teams": [
+        {
+            "name": "UD Vessuwan(Ex Reckoning Esports)",
+            "player1":"JG",
+            "player2":"Teehee",
+            "player3":"Ken",
+            "player4":"Rupido",
+            "player5":"LuziFy",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "The Prime",
+            "player1":"Rusman",
+            "player2":"Azur4",
+            "player3":"apho",
+            "player4":"Mydearest",
+            "player5":"KelThuzard",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "Army Geniuses",
+            "player1":"db-",
+            "player2":"Mamang Daya",
+            "player3":"woMy",
+            "player4":"Lym-",
+            "player5":"you_K",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "Team Veteran",
+            "player1":"Kenji",
+            "player2":"ShØwT",
+            "player3":"Gugu",
+            "player4":"Kalay99",
+            "player5":"Rap Rap",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "Shinigami",
+            "player1":"Chidori~",
+            "player2":"FiXeRs",
+            "player3":"2Dking",
+            "player4":"bigdickJ",
+            "player5":"52zero",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name":  "Dota Geniuses",
+            "player1":"joyend",
+            "player2":"AhB",
+            "player3":"j33",
+            "player4":"Pretender",
+            "player5":"BastionBoeyyy",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name":  "Team Mystery",
+            "player1":"mks-",
+            "player2":"mercury",
+            "player3":"X1aOyU-",
+            "player4":"QWE",
+            "player5":"Eren",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "Angel Alliance",
+            "player1":"Well",
+            "player2":"uswekqt",
+            "player3":"yur",
+            "player4":"Sgod",
+            "player5":"Dzaster",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "It's a Prank",
+            "player1":"DreaMyx",
+            "player2":"Jimmeh",
+            "player3":"Anemone",
+            "player4":"DJoon",
+            "player5":"bun",
+            "Qualifier":"Direct Invite"
+        },
+        {
+            "name": "Novus Gaming",
+            "player1":"EJ",
+            "player2":"Nando",
+            "player3":"Dagz",
+            "player4":"Julz",
+            "player5":"Efking",
+            "Qualifier":"Direct Invite"
+        }
+    ],
+    "Schedule":[
+        {
+            "match": "Team Mystery Vs Team Veteran",
+            "date": "18-07-2021",
+            "time": "12:30 SGT",
+            "series": "Best of 3"
+        },
+        {
+            "match": "The Prime Vs Angel Alliance",
+            "date": "18-07-2021",
+            "time": "4:30 SGT",
+            "series": "Best of 3"
+        }
+        
+    ],
+    "Live Stream":[
+        { 
+            "name":"m3traneo",
+            "link":"https://www.twitch.tv/m3traneo",
+            "language": "Russian"
+        },
+        {
+            "name":"exidde_",
+            "link":"https://www.twitch.tv/exidde_",
+            "language": "Russian"
+        },
+        {
+            "name":"m_a_s_h_i_n_a",
+            "link":"https://www.twitch.tv/m_a_s_h_i_n_a",
+            "language": "Russian"
+        }
+    ],
+    "Sponsors":[
+        {
+            "name": "Midas Clubs"
+        },
+        {
+            "name": "MD Computers"
+        }
+    ],
+    "data":[
+        {
+            "team1":[
+                "Team Mystery",
+                {
+                    "odds":[
+                        { 
+                            "game1":"1.5",
+                            "game2":"1.6",
+                            "game3":"1.7"
+                        }
+                    ]
+                }
+            ],
+            "team2":[
+                "Team Veteran",
+                {
+                    "odds":[
+                        { 
+                            "game1":"1.5",
+                            "game2":"1.6",
+                            "game3":"1.7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "team1":[ 
+                "The Prime",
+                {
+                    "odds":[
+                        { 
+                            "game1":"2.2",
+                            "game2":"1.8",
+                            "game3":"2"
+                        }
+                    ]
+                }
+            ],
+            "team2":[
+                "Angel Alliance",
+                {
+                    "odds":[
+                        { 
+                            "game1":"1.9",
+                            "game2":"1.9",
+                            "game3":"1.9"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+  }

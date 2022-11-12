@@ -1,0 +1,10 @@
+section.news-section .news-slider .single-new-holder {
+  min-height: 400px;
+}
+section.news-section .news-slider .single-new-holder a {
+  border-radius: 15px;
+}
+section.news-section .news-slider .single-new-holder .text-holder {
+  top: 50%;
+  transform: translateY(-50%);
+}
